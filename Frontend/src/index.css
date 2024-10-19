@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgb(248, 248, 248);
+}
+
+.sp-shd-btn{
+  box-shadow: -4px 4px black;
+}
+.sp-shd-btn:active{
+  box-shadow: -2px 2px black;
+}
+.sp-shd-input{
+  box-shadow: -6px 6px black;
+}
+.sp-shd-card:hover{
+  box-shadow: -6px 6px black;
+}
+
+.sp-shd-option{
+  box-shadow: 0px 4px black;
+}
+
+.animate-text {
+  animation: slide-in 1.6s forwards;
+}
+
+@keyframes slide-in {
+  0% {
+      transform: translateX(10%);
+      opacity: 0;
+  }
+  100% {
+      transform: translateX(0);
+      opacity: 1;
+  }
+}
