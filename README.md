@@ -31,14 +31,14 @@
   - React Infinite Scroll for dynamic data fetching
 
 ## Screenshots
-![Screenshot](Screenshots/homePage.png)
+![Screenshot](Screenshots/homepage.png)
 ![Screenshot](Screenshots/searchresult.png)
-![Screenshot](Screenshots/blogPost.png)
+![Screenshot](Screenshots/blogpost.png)
 ![Screenshot](Screenshots/commentSection.png)
 ![Screenshot](Screenshots/dashboardHome.png)
 ![Screenshot](Screenshots/notfications.png)
 ![Screenshot](Screenshots/manageBlogs.png)
-![Screenshot](Screenshots/createBlog.png)
+![Screenshot](Screenshots/createblog.png)
 
 ## Installation
 
