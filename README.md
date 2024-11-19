@@ -32,7 +32,7 @@
 
 ## Screenshots
 ![Screenshot](Screenshots/homePage.png)
-![Screenshot](Screenshots/searchResult.png)
+![Screenshot](Screenshots/searchresult.png)
 ![Screenshot](Screenshots/blogPost.png)
 ![Screenshot](Screenshots/commentSection.png)
 ![Screenshot](Screenshots/dashboardHome.png)
