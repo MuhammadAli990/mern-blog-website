@@ -46,7 +46,7 @@ To run Blogify on your local system, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/blogify.git
+   git clone https://github.com/MuhammadAli990/mern-blog-website
    cd blogify
 2. **Install dependencies**: Navigate to both the frontend and backend directories and run:
 ```npm install```
