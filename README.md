@@ -30,6 +30,16 @@
   - React Toastify for notifications
   - React Infinite Scroll for dynamic data fetching
 
+## Screenshots
+![Screenshot](Screenshots/homePage.png)
+![Screenshot](Screenshots/searchResult.png)
+![Screenshot](Screenshots/blogPost.png)
+![Screenshot](Screenshots/commentSection.png)
+![Screenshot](Screenshots/dashboardHome.png)
+![Screenshot](Screenshots/notfications.png)
+![Screenshot](Screenshots/manageBlogs.png)
+![Screenshot](Screenshots/createBlog.png)
+
 ## Installation
 
 To run Blogify on your local system, follow these steps:
